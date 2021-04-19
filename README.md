@@ -20,7 +20,7 @@
 
   <h3 align="center">微信公众号采集系统</h3>
   <p align="center">
-      系统基于LNMP平台，采用Yii2.0框架，实现了微信公众号自动解析、搜狗公众号解析、自动关注、自动采集、文章列表回采、点赞数阅读数采集、数据报表导出、数据监控功能。支撑了2w+公众号和累计1KW+文章的数据采集工作。
+      系统基于LNMP平台，采用Yii2.0框架，实现了微信公众号自动解析、搜狗公众号解析、自动关注、自动采集、文章列表回采、点赞数阅读数采集、数据报表导出、数据监控功能。
     <br />
     <a href="https://github.com/fuchuangxin/media"><strong>项目介绍 »</strong></a>
     <br />
@@ -54,7 +54,7 @@
 
 
 ### 系统介绍
- 系统基于LNMP平台，采用Yii2.0框架，实现了微信公众号自动解析、搜狗公众号解析、自动关注、自动采集、文章列表回采、点赞数阅读数采集、数据报表导出、数据监控功能。为政务系统提供微信公众号指数榜单和媒探平台提供数据来源。
+ 系统基于LNMP平台，采用Yii2.0框架，实现了微信公众号自动解析、搜狗公众号解析、自动关注、自动采集、文章列表回采、点赞数阅读数采集、数据报表导出、数据监控功能。为政务系统提供微信公众号指数榜单和媒探平台提供数据来源。支撑了2w+公众号和累计1KW+文章的信息数据采集工作。
 
 ### 技术方案
 ##### 微信文章采集
@@ -100,7 +100,7 @@
 
 #####  榜单数据
 ![image](https://github.com/fuchuangxin/meitan/blob/main/images/zhengwu_excel_data.png)
-![image](https://github.com/fuchuangxin/meitan/blob/main/images/account_excel_data.png)
+![image](https://github.com/fuchuangxin/meitan/blob/main/images/account_excel_export.png)
 
 
 
